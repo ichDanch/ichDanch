@@ -1,5 +1,4 @@
 <h1>Привет! Меня зовут Данила.</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3>Вот мои проекты:</h3>
 
 - **Explore With Me** - RESTful приложение на Spring Boot, которое дает возможность делиться информацией об интересных событиях и помогает найти компанию для участия в них. Микросервисная архитектура с использованием Spring MVC, Hibernate, Spring Data JPA, PostgreSQL и Docker Compose.  
